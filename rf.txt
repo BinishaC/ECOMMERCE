@@ -1,0 +1,31 @@
+
+
+>py manage.py shell
+
+> from app1.models import Category #category ne display cheyyyan
+ data= Category.objects.all()
+ data
+        <QuerySet [<Category: laptop>, <Category: TV>, <Category: MOBILE>,
+         <Category: washing macine>, <Category: washing macine>]>
+        datas query ayit list cheyth kitii
+
+
+
+        github.com
+        signup---- 
+
+
+        cmd------git --version
+
+github--- project post cheyyyan
+git----- crack cheyyyan (extra features ok upload avan)
+
+git scm download
+windows
+64bit dwnload
+
+git --version
+ create a folder on desktop (git12)
+ open folder- cmd
+    code .
+    opening this folder in vscode

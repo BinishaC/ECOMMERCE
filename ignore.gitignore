@@ -1,0 +1,9 @@
+
+*.pyc
+*~
+__pyche__
+env
+db.sqlite3
+/static
+.DS_store
+images
